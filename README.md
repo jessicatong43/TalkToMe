@@ -1,2 +1,2 @@
 # TalkToMe
-An AI assistant with which to practice your public speaking skills.
+TalkToMe is a revolutionary AI-powered mobile application designed to enhance your public speaking skills and boost your confidence on stage. Developed by a team of passionate engineers including Jessica Tong, Nic Milligan, and Mevludin Causevic, TalkToMe offers a dynamic platform for practicing and improving your speaking abilities.
